@@ -14,5 +14,23 @@
     "noty": "^3.2.0-beta-deprecated",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0"
-  }
+  },
+  "name": "nodejs-auth-main",
+  "description": "Using Nodejs, ejs, MongoDB, and Passport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishaojha1/Nodejs--Authentication.git"
+  },
+  "author": "Nisha ojha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nishaojha1/Nodejs--Authentication/issues"
+  },
+  "homepage": "https://github.com/Nishaojha1/Nodejs--Authentication#readme"
 }
